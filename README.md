@@ -10,7 +10,7 @@ This is my personal cybersecurity portfolio site, built with HTML and CSS. It sh
 - Live demo hosted via GitHub Pages
 
 ## 🚀 Live Site
-[Click here to view the portfolio](https://your-username.github.io/portfolio/)
+[Click here to view the portfolio](https://Joshkimmich.github.io/portfolio/)
 
 ## 📂 Technologies Used
 - HTML5
